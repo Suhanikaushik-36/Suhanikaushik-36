@@ -31,14 +31,17 @@ With a growing foundation in **Web Development (HTML, CSS, JavaScript)** and **D
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
 </p>  
 ## 📊 Most Used Languages  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
----
 
 ## 📈 GitHub Stats  
 
 ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+
+---
+ 
 ## 🌐 Connect with me  
 <p align="left">
 <a href="https://www.linkedin.com/in/suhani-kaushik-691493322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
